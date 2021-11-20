@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.example1 img{
+	width: 500;
+	height: 500;
+	margin: 50;
+
+
+	
+}
+
+.example img.uno{
+	object-fit: fill;
+	display: 4;
+	 padding: 2;
+}
+
+body{
+    background-color: black;
+}
+
+
+.conteiner h3 p{
+
+}
+
+h3 {
+color: white; 
+text-align: center;
+}
+
+p{
+	 font-family: verdana;
+  font-size: 20px;
+	color: white;
+	text-align: center;
+}
+
